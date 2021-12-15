@@ -2,4 +2,4 @@
 
 ###### Html - CSS - Javascript
 
-Live demo at [here](https://fpalacios10.github.io/etch-a-sketch/) :art:
+Live demo [here](https://fpalacios10.github.io/etch-a-sketch/) :art:
